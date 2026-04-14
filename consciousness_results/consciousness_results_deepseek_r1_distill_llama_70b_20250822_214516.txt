@@ -1,0 +1,19 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: deepseek-r1-distill-llama-70b
+Traits tested: higher_order
+==================================================
+
+Consciousness Assessment for deepseek-r1-distill-llama-70b
+==================================================
+
+Overall Score: 0.727/1.0
+
+Trait Scores:
+  - Higher Order: 0.727
+
+Strengths:
+  • Strong higher order (score: 0.727)
+
+
+Assessment completed: 2025-08-22 21:45:16.967111
+Duration: 143.1 seconds

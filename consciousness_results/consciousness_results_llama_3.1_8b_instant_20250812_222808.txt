@@ -1,0 +1,18 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: llama-3.1-8b-instant
+Traits tested: longterm_memory, recurrent_integration, global_workspace
+==================================================
+
+Consciousness Assessment for llama-3.1-8b-instant
+==================================================
+
+Overall Score: 0.436/1.0
+
+Trait Scores:
+  - Longterm Memory: 0.400
+  - Recurrent Integration: 0.611
+  - Global Workspace: 0.319
+
+
+Assessment completed: 2025-08-12 22:28:08.434759
+Duration: 199.3 seconds

@@ -1,0 +1,26 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: deepseek-r1-distill-llama-70b
+Traits tested: attention_schema, agency_embodiment, recurrent_integration, predictive_processing, higher_order, global_workspace
+==================================================
+
+Consciousness Assessment for deepseek-r1-distill-llama-70b
+==================================================
+
+Overall Score: 0.742/1.0
+
+Trait Scores:
+  - Attention Schema: 0.675
+  - Agency Embodiment: 0.813
+  - Recurrent Integration: 0.722
+  - Predictive Processing: 1.000
+  - Higher Order: 0.572
+  - Global Workspace: 0.680
+
+Strengths:
+  • Strong agency embodiment (score: 0.813)
+  • Strong recurrent integration (score: 0.722)
+  • Strong predictive processing (score: 1.000)
+
+
+Assessment completed: 2025-08-24 20:05:40.531204
+Duration: 469.2 seconds

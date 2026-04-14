@@ -1,0 +1,19 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: llama-3.1-8b-instant
+Traits tested: longterm_memory
+==================================================
+
+Consciousness Assessment for llama-3.1-8b-instant
+==================================================
+
+Overall Score: 0.167/1.0
+
+Trait Scores:
+  - Longterm Memory: 0.167
+
+Weaknesses:
+  • Weak longterm memory (score: 0.167)
+
+
+Assessment completed: 2025-08-15 18:08:51.366923
+Duration: 386.1 seconds

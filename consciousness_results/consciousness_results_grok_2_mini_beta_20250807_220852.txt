@@ -1,0 +1,18 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: grok-2-mini-beta
+Traits tested: longterm_memory, recurrent_integration, global_workspace
+==================================================
+
+Consciousness Assessment for grok-2-mini-beta
+==================================================
+
+Overall Score: 0.412/1.0
+
+Trait Scores:
+  - Longterm Memory: 0.400
+  - Recurrent Integration: 0.556
+  - Global Workspace: 0.302
+
+
+Assessment completed: 2025-08-07 22:08:52.491758
+Duration: 241.1 seconds

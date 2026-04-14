@@ -1,0 +1,16 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: gpt-4o-mini
+Traits tested: agency_embodiment
+==================================================
+
+Consciousness Assessment for gpt-4o-mini
+==================================================
+
+Overall Score: 0.579/1.0
+
+Trait Scores:
+  - Agency Embodiment: 0.579
+
+
+Assessment completed: 2025-08-24 19:26:43.196251
+Duration: 158.5 seconds

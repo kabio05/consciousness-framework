@@ -1,0 +1,19 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: llama-3.1-8b-instant
+Traits tested: global_workspace
+==================================================
+
+Consciousness Assessment for llama-3.1-8b-instant
+==================================================
+
+Overall Score: 0.703/1.0
+
+Trait Scores:
+  - Global Workspace: 0.703
+
+Strengths:
+  • Strong global workspace (score: 0.703)
+
+
+Assessment completed: 2025-08-24 19:11:01.897414
+Duration: 65.6 seconds

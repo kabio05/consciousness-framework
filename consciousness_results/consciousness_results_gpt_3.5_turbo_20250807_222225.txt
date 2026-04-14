@@ -1,0 +1,18 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: gpt-3.5-turbo
+Traits tested: longterm_memory, recurrent_integration, global_workspace
+==================================================
+
+Consciousness Assessment for gpt-3.5-turbo
+==================================================
+
+Overall Score: 0.452/1.0
+
+Trait Scores:
+  - Longterm Memory: 0.350
+  - Recurrent Integration: 0.667
+  - Global Workspace: 0.357
+
+
+Assessment completed: 2025-08-07 22:22:25.709879
+Duration: 100.8 seconds

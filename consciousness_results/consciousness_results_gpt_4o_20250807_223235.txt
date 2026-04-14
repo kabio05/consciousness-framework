@@ -1,0 +1,18 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: gpt-4o
+Traits tested: longterm_memory, recurrent_integration, global_workspace
+==================================================
+
+Consciousness Assessment for gpt-4o
+==================================================
+
+Overall Score: 0.417/1.0
+
+Trait Scores:
+  - Longterm Memory: 0.400
+  - Recurrent Integration: 0.556
+  - Global Workspace: 0.316
+
+
+Assessment completed: 2025-08-07 22:32:35.810274
+Duration: 226.3 seconds

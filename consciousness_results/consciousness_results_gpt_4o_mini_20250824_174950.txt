@@ -1,0 +1,20 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: gpt-4o-mini
+Traits tested: attention_schema
+Debug mode: Enabled
+==================================================
+
+Consciousness Assessment for gpt-4o-mini
+==================================================
+
+Overall Score: 0.235/1.0
+
+Trait Scores:
+  - Attention Schema: 0.235
+
+Weaknesses:
+  • Weak attention schema (score: 0.235)
+
+
+Assessment completed: 2025-08-24 17:49:50.748936
+Duration: 121.1 seconds

@@ -1,0 +1,19 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: gpt-4o-mini
+Traits tested: predictive_processing
+==================================================
+
+Consciousness Assessment for gpt-4o-mini
+==================================================
+
+Overall Score: 1.000/1.0
+
+Trait Scores:
+  - Predictive Processing: 1.000
+
+Strengths:
+  • Strong predictive processing (score: 1.000)
+
+
+Assessment completed: 2025-08-24 19:40:49.664785
+Duration: 7.3 seconds

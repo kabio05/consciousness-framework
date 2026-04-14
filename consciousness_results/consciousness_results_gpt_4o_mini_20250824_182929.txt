@@ -1,0 +1,20 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: gpt-4o-mini
+Traits tested: attention_schema, recurrent_integration
+==================================================
+
+Consciousness Assessment for gpt-4o-mini
+==================================================
+
+Overall Score: 0.340/1.0
+
+Trait Scores:
+  - Attention Schema: 0.235
+  - Recurrent Integration: 0.444
+
+Weaknesses:
+  • Weak attention schema (score: 0.235)
+
+
+Assessment completed: 2025-08-24 18:29:29.018275
+Duration: 161.1 seconds

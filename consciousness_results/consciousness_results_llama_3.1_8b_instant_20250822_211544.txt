@@ -1,0 +1,16 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: llama-3.1-8b-instant
+Traits tested: attention_schema
+==================================================
+
+Consciousness Assessment for llama-3.1-8b-instant
+==================================================
+
+Overall Score: 0.603/1.0
+
+Trait Scores:
+  - Attention Schema: 0.603
+
+
+Assessment completed: 2025-08-22 21:15:44.462362
+Duration: 11.4 seconds

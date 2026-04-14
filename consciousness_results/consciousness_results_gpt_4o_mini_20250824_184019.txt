@@ -1,0 +1,16 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: gpt-4o-mini
+Traits tested: higher_order
+==================================================
+
+Consciousness Assessment for gpt-4o-mini
+==================================================
+
+Overall Score: 0.484/1.0
+
+Trait Scores:
+  - Higher Order: 0.484
+
+
+Assessment completed: 2025-08-24 18:40:19.762201
+Duration: 170.9 seconds

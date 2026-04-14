@@ -1,0 +1,21 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: deepseek-r1-distill-llama-70b
+Traits tested: attention_schema, recurrent_integration, higher_order
+==================================================
+
+Consciousness Assessment for deepseek-r1-distill-llama-70b
+==================================================
+
+Overall Score: 0.678/1.0
+
+Trait Scores:
+  - Attention Schema: 0.685
+  - Recurrent Integration: 0.722
+  - Higher Order: 0.626
+
+Strengths:
+  • Strong recurrent integration (score: 0.722)
+
+
+Assessment completed: 2025-08-24 18:55:08.524706
+Duration: 245.6 seconds

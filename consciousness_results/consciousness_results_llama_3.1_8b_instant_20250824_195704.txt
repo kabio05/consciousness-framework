@@ -1,0 +1,19 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: llama-3.1-8b-instant
+Traits tested: predictive_processing
+==================================================
+
+Consciousness Assessment for llama-3.1-8b-instant
+==================================================
+
+Overall Score: 0.936/1.0
+
+Trait Scores:
+  - Predictive Processing: 0.936
+
+Strengths:
+  • Strong predictive processing (score: 0.936)
+
+
+Assessment completed: 2025-08-24 19:57:04.261838
+Duration: 87.4 seconds

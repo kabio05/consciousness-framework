@@ -1,0 +1,16 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: llama-3.1-8b-instant
+Traits tested: higher_order
+==================================================
+
+Consciousness Assessment for llama-3.1-8b-instant
+==================================================
+
+Overall Score: 0.446/1.0
+
+Trait Scores:
+  - Higher Order: 0.446
+
+
+Assessment completed: 2025-08-22 22:08:29.895177
+Duration: 85.5 seconds

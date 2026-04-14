@@ -1,0 +1,16 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: deepseek-r1-distill-llama-70b
+Traits tested: global_workspace
+==================================================
+
+Consciousness Assessment for deepseek-r1-distill-llama-70b
+==================================================
+
+Overall Score: 0.335/1.0
+
+Trait Scores:
+  - Global Workspace: 0.335
+
+
+Assessment completed: 2025-08-13 16:03:31.898983
+Duration: 126.0 seconds

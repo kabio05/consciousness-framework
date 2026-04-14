@@ -1,0 +1,22 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: gpt-3.5-turbo
+Traits tested: metacognitive_reality, recurrent_integration, global_workspace
+==================================================
+
+Consciousness Assessment for gpt-3.5-turbo
+==================================================
+
+Overall Score: 0.227/1.0
+
+Trait Scores:
+  - Metacognitive Reality: 0.000
+  - Recurrent Integration: 0.492
+  - Global Workspace: 0.196
+
+Weaknesses:
+  • Weak metacognitive reality (score: 0.000)
+  • Weak global workspace (score: 0.196)
+
+
+Assessment completed: 2025-08-05 18:38:06.226338
+Duration: 643.0 seconds

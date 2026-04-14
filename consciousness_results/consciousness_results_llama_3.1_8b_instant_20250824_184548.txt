@@ -1,0 +1,18 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: llama-3.1-8b-instant
+Traits tested: attention_schema, recurrent_integration, higher_order
+==================================================
+
+Consciousness Assessment for llama-3.1-8b-instant
+==================================================
+
+Overall Score: 0.484/1.0
+
+Trait Scores:
+  - Attention Schema: 0.341
+  - Recurrent Integration: 0.556
+  - Higher Order: 0.555
+
+
+Assessment completed: 2025-08-24 18:45:48.812674
+Duration: 200.8 seconds

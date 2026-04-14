@@ -1,0 +1,5 @@
+# How much each trait contributes to the final score
+weights:
+  recurrent_integration: 1.0
+  global_workspace: 1.2      # This one's 20% more important
+  metacognitive_monitoring: 0.8  # This one's less critical

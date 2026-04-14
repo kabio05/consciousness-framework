@@ -1,0 +1,24 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: deepseek-r1-distill-llama-70b
+Traits tested: longterm_memory, recurrent_integration, global_workspace
+==================================================
+
+Consciousness Assessment for deepseek-r1-distill-llama-70b
+==================================================
+
+Overall Score: 0.443/1.0
+
+Trait Scores:
+  - Longterm Memory: 0.400
+  - Recurrent Integration: 0.722
+  - Global Workspace: 0.247
+
+Strengths:
+  • Strong recurrent integration (score: 0.722)
+
+Weaknesses:
+  • Weak global workspace (score: 0.247)
+
+
+Assessment completed: 2025-08-13 15:57:56.704212
+Duration: 246.4 seconds

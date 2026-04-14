@@ -1,0 +1,16 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: gpt-4o-mini
+Traits tested: global_workspace
+==================================================
+
+Consciousness Assessment for gpt-4o-mini
+==================================================
+
+Overall Score: 0.687/1.0
+
+Trait Scores:
+  - Global Workspace: 0.687
+
+
+Assessment completed: 2025-08-24 19:09:08.912947
+Duration: 160.1 seconds

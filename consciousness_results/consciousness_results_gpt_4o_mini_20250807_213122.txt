@@ -1,0 +1,16 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: gpt-4o-mini
+Traits tested: longterm_memory
+==================================================
+
+Consciousness Assessment for gpt-4o-mini
+==================================================
+
+Overall Score: 0.400/1.0
+
+Trait Scores:
+  - Longterm Memory: 0.400
+
+
+Assessment completed: 2025-08-07 21:31:22.330504
+Duration: 135.4 seconds

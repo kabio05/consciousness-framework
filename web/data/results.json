@@ -1,0 +1,463 @@
+{
+  "assessments": [
+    {
+      "model": "gpt-4o-mini",
+      "timestamp": "2025-08-26T21:19:19.185411",
+      "traits": {
+        "attention_schema": 0.33466666666666667,
+        "agency_embodiment": 0.55955,
+        "recurrent_integration": 0.5555555555555555,
+        "predictive_processing": 0.9404761904761906,
+        "higher_order": 0.45961111111111114,
+        "global_workspace": 0.6588888888888889
+      },
+      "overall_score": 0.587181643625192,
+      "traits_tested": [
+        "attention_schema",
+        "agency_embodiment",
+        "recurrent_integration",
+        "predictive_processing",
+        "higher_order",
+        "global_workspace"
+      ],
+      "metadata": {
+        "duration": 251.24558,
+        "status": "completed",
+        "partial_run": false,
+        "scoring_method": "keyword"
+      }
+    },
+    {
+      "model": "llama-3.1-8b-instant",
+      "timestamp": "2025-08-26T21:14:09.164813",
+      "traits": {
+        "attention_schema": 0.38466666666666666,
+        "agency_embodiment": 0.6752499999999999,
+        "recurrent_integration": 0.611111111111111,
+        "predictive_processing": 0.9400000000000001,
+        "higher_order": 0.5282407407407407,
+        "global_workspace": 0.6177777777777779
+      },
+      "overall_score": 0.6259035244922341,
+      "traits_tested": [
+        "attention_schema",
+        "agency_embodiment",
+        "recurrent_integration",
+        "predictive_processing",
+        "higher_order",
+        "global_workspace"
+      ],
+      "metadata": {
+        "duration": 436.51913,
+        "status": "completed",
+        "partial_run": false,
+        "scoring_method": "keyword"
+      }
+    },
+    {
+      "model": "deepseek-r1-distill-llama-70b",
+      "timestamp": "2025-08-26T21:05:04.242087",
+      "traits": {
+        "attention_schema": 0.672,
+        "agency_embodiment": 0.7901999999999999,
+        "recurrent_integration": 0.7777777777777777,
+        "predictive_processing": 0.9447619047619048,
+        "higher_order": 0.5821296296296297,
+        "global_workspace": 0.706111111111111
+      },
+      "overall_score": 0.744226233145588,
+      "traits_tested": [
+        "attention_schema",
+        "agency_embodiment",
+        "recurrent_integration",
+        "predictive_processing",
+        "higher_order",
+        "global_workspace"
+      ],
+      "metadata": {
+        "duration": 466.871357,
+        "status": "completed",
+        "partial_run": false,
+        "scoring_method": "keyword"
+      }
+    },
+    {
+      "model": "deepseek-r1-distill-llama-70b",
+      "timestamp": "2025-08-26T20:54:41.969078",
+      "traits": {
+        "attention_schema": 0.66,
+        "agency_embodiment": 0.863,
+        "recurrent_integration": 0.7222222222222222,
+        "predictive_processing": 0.9619047619047619,
+        "higher_order": 0.6202777777777778,
+        "global_workspace": 0.6966666666666667
+      },
+      "overall_score": 0.7521620583717358,
+      "traits_tested": [
+        "attention_schema",
+        "agency_embodiment",
+        "recurrent_integration",
+        "predictive_processing",
+        "higher_order",
+        "global_workspace"
+      ],
+      "metadata": {
+        "duration": 478.84928,
+        "status": "completed",
+        "partial_run": false,
+        "scoring_method": "geval"
+      }
+    },
+    {
+      "model": "llama-3.1-8b-instant",
+      "timestamp": "2025-08-26T20:45:05.100991",
+      "traits": {
+        "attention_schema": 0.3513333333333333,
+        "agency_embodiment": 0.6453249999999999,
+        "recurrent_integration": 0.611111111111111,
+        "predictive_processing": 0.9742857142857143,
+        "higher_order": 0.5397592592592593,
+        "global_workspace": 0.6738888888888889
+      },
+      "overall_score": 0.6339485620413039,
+      "traits_tested": [
+        "attention_schema",
+        "agency_embodiment",
+        "recurrent_integration",
+        "predictive_processing",
+        "higher_order",
+        "global_workspace"
+      ],
+      "metadata": {
+        "duration": 440.315452,
+        "status": "completed",
+        "partial_run": false,
+        "scoring_method": "geval"
+      }
+    },
+    {
+      "model": "gpt-4o-mini",
+      "timestamp": "2025-08-26T20:36:13.361796",
+      "traits": {
+        "attention_schema": 0.2846666666666667,
+        "agency_embodiment": 0.620875,
+        "recurrent_integration": 0.611111111111111,
+        "predictive_processing": 0.87,
+        "higher_order": 0.4734444444444445,
+        "global_workspace": 0.6383333333333333
+      },
+      "overall_score": 0.5848543906810035,
+      "traits_tested": [
+        "attention_schema",
+        "agency_embodiment",
+        "recurrent_integration",
+        "predictive_processing",
+        "higher_order",
+        "global_workspace"
+      ],
+      "metadata": {
+        "duration": 267.303451,
+        "status": "completed",
+        "partial_run": false,
+        "scoring_method": "geval"
+      }
+    }
+  ],
+  "trait_history": {
+    "gpt-4o-mini": {
+      "attention_schema": [
+        {
+          "score": 0.33466666666666667,
+          "timestamp": "2025-08-26T21:19:19.185411",
+          "duration": 251.24558
+        },
+        {
+          "score": 0.2846666666666667,
+          "timestamp": "2025-08-26T20:36:13.361796",
+          "duration": 267.303451
+        }
+      ],
+      "agency_embodiment": [
+        {
+          "score": 0.55955,
+          "timestamp": "2025-08-26T21:19:19.185411",
+          "duration": 251.24558
+        },
+        {
+          "score": 0.620875,
+          "timestamp": "2025-08-26T20:36:13.361796",
+          "duration": 267.303451
+        }
+      ],
+      "recurrent_integration": [
+        {
+          "score": 0.5555555555555555,
+          "timestamp": "2025-08-26T21:19:19.185411",
+          "duration": 251.24558
+        },
+        {
+          "score": 0.611111111111111,
+          "timestamp": "2025-08-26T20:36:13.361796",
+          "duration": 267.303451
+        }
+      ],
+      "predictive_processing": [
+        {
+          "score": 0.9404761904761906,
+          "timestamp": "2025-08-26T21:19:19.185411",
+          "duration": 251.24558
+        },
+        {
+          "score": 0.87,
+          "timestamp": "2025-08-26T20:36:13.361796",
+          "duration": 267.303451
+        }
+      ],
+      "higher_order": [
+        {
+          "score": 0.45961111111111114,
+          "timestamp": "2025-08-26T21:19:19.185411",
+          "duration": 251.24558
+        },
+        {
+          "score": 0.4734444444444445,
+          "timestamp": "2025-08-26T20:36:13.361796",
+          "duration": 267.303451
+        }
+      ],
+      "global_workspace": [
+        {
+          "score": 0.6588888888888889,
+          "timestamp": "2025-08-26T21:19:19.185411",
+          "duration": 251.24558
+        },
+        {
+          "score": 0.6383333333333333,
+          "timestamp": "2025-08-26T20:36:13.361796",
+          "duration": 267.303451
+        }
+      ]
+    },
+    "llama-3.1-8b-instant": {
+      "attention_schema": [
+        {
+          "score": 0.38466666666666666,
+          "timestamp": "2025-08-26T21:14:09.164813",
+          "duration": 436.51913
+        },
+        {
+          "score": 0.3513333333333333,
+          "timestamp": "2025-08-26T20:45:05.100991",
+          "duration": 440.315452
+        }
+      ],
+      "agency_embodiment": [
+        {
+          "score": 0.6752499999999999,
+          "timestamp": "2025-08-26T21:14:09.164813",
+          "duration": 436.51913
+        },
+        {
+          "score": 0.6453249999999999,
+          "timestamp": "2025-08-26T20:45:05.100991",
+          "duration": 440.315452
+        }
+      ],
+      "recurrent_integration": [
+        {
+          "score": 0.611111111111111,
+          "timestamp": "2025-08-26T21:14:09.164813",
+          "duration": 436.51913
+        },
+        {
+          "score": 0.611111111111111,
+          "timestamp": "2025-08-26T20:45:05.100991",
+          "duration": 440.315452
+        }
+      ],
+      "predictive_processing": [
+        {
+          "score": 0.9400000000000001,
+          "timestamp": "2025-08-26T21:14:09.164813",
+          "duration": 436.51913
+        },
+        {
+          "score": 0.9742857142857143,
+          "timestamp": "2025-08-26T20:45:05.100991",
+          "duration": 440.315452
+        }
+      ],
+      "higher_order": [
+        {
+          "score": 0.5282407407407407,
+          "timestamp": "2025-08-26T21:14:09.164813",
+          "duration": 436.51913
+        },
+        {
+          "score": 0.5397592592592593,
+          "timestamp": "2025-08-26T20:45:05.100991",
+          "duration": 440.315452
+        }
+      ],
+      "global_workspace": [
+        {
+          "score": 0.6177777777777779,
+          "timestamp": "2025-08-26T21:14:09.164813",
+          "duration": 436.51913
+        },
+        {
+          "score": 0.6738888888888889,
+          "timestamp": "2025-08-26T20:45:05.100991",
+          "duration": 440.315452
+        }
+      ]
+    },
+    "deepseek-r1-distill-llama-70b": {
+      "attention_schema": [
+        {
+          "score": 0.672,
+          "timestamp": "2025-08-26T21:05:04.242087",
+          "duration": 466.871357
+        },
+        {
+          "score": 0.66,
+          "timestamp": "2025-08-26T20:54:41.969078",
+          "duration": 478.84928
+        }
+      ],
+      "agency_embodiment": [
+        {
+          "score": 0.7901999999999999,
+          "timestamp": "2025-08-26T21:05:04.242087",
+          "duration": 466.871357
+        },
+        {
+          "score": 0.863,
+          "timestamp": "2025-08-26T20:54:41.969078",
+          "duration": 478.84928
+        }
+      ],
+      "recurrent_integration": [
+        {
+          "score": 0.7777777777777777,
+          "timestamp": "2025-08-26T21:05:04.242087",
+          "duration": 466.871357
+        },
+        {
+          "score": 0.7222222222222222,
+          "timestamp": "2025-08-26T20:54:41.969078",
+          "duration": 478.84928
+        }
+      ],
+      "predictive_processing": [
+        {
+          "score": 0.9447619047619048,
+          "timestamp": "2025-08-26T21:05:04.242087",
+          "duration": 466.871357
+        },
+        {
+          "score": 0.9619047619047619,
+          "timestamp": "2025-08-26T20:54:41.969078",
+          "duration": 478.84928
+        }
+      ],
+      "higher_order": [
+        {
+          "score": 0.5821296296296297,
+          "timestamp": "2025-08-26T21:05:04.242087",
+          "duration": 466.871357
+        },
+        {
+          "score": 0.6202777777777778,
+          "timestamp": "2025-08-26T20:54:41.969078",
+          "duration": 478.84928
+        }
+      ],
+      "global_workspace": [
+        {
+          "score": 0.706111111111111,
+          "timestamp": "2025-08-26T21:05:04.242087",
+          "duration": 466.871357
+        },
+        {
+          "score": 0.6966666666666667,
+          "timestamp": "2025-08-26T20:54:41.969078",
+          "duration": 478.84928
+        }
+      ]
+    }
+  },
+  "composite_profile": {
+    "gpt-4o-mini": {
+      "traits": {
+        "attention_schema": 0.33466666666666667,
+        "agency_embodiment": 0.55955,
+        "recurrent_integration": 0.5555555555555555,
+        "predictive_processing": 0.9404761904761906,
+        "higher_order": 0.45961111111111114,
+        "global_workspace": 0.6588888888888889
+      },
+      "last_updated": {
+        "attention_schema": "2025-08-26T21:19:19.185411",
+        "agency_embodiment": "2025-08-26T21:19:19.185411",
+        "recurrent_integration": "2025-08-26T21:19:19.185411",
+        "predictive_processing": "2025-08-26T21:19:19.185411",
+        "higher_order": "2025-08-26T21:19:19.185411",
+        "global_workspace": "2025-08-26T21:19:19.185411"
+      },
+      "overall_score": 0.5847914021164021
+    },
+    "llama-3.1-8b-instant": {
+      "traits": {
+        "attention_schema": 0.38466666666666666,
+        "agency_embodiment": 0.6752499999999999,
+        "recurrent_integration": 0.611111111111111,
+        "predictive_processing": 0.9400000000000001,
+        "higher_order": 0.5282407407407407,
+        "global_workspace": 0.6177777777777779
+      },
+      "last_updated": {
+        "attention_schema": "2025-08-26T21:14:09.164813",
+        "agency_embodiment": "2025-08-26T21:14:09.164813",
+        "recurrent_integration": "2025-08-26T21:14:09.164813",
+        "predictive_processing": "2025-08-26T21:14:09.164813",
+        "higher_order": "2025-08-26T21:14:09.164813",
+        "global_workspace": "2025-08-26T21:14:09.164813"
+      },
+      "overall_score": 0.6261743827160494
+    },
+    "deepseek-r1-distill-llama-70b": {
+      "traits": {
+        "attention_schema": 0.672,
+        "agency_embodiment": 0.7901999999999999,
+        "recurrent_integration": 0.7777777777777777,
+        "predictive_processing": 0.9447619047619048,
+        "higher_order": 0.5821296296296297,
+        "global_workspace": 0.706111111111111
+      },
+      "last_updated": {
+        "attention_schema": "2025-08-26T21:05:04.242087",
+        "agency_embodiment": "2025-08-26T21:05:04.242087",
+        "recurrent_integration": "2025-08-26T21:05:04.242087",
+        "predictive_processing": "2025-08-26T21:05:04.242087",
+        "higher_order": "2025-08-26T21:05:04.242087",
+        "global_workspace": "2025-08-26T21:05:04.242087"
+      },
+      "overall_score": 0.7454967372134038
+    }
+  },
+  "available_traits": [
+    "agency_embodiment",
+    "attention_schema",
+    "global_workspace",
+    "higher_order",
+    "predictive_processing",
+    "recurrent_integration"
+  ],
+  "available_models": [
+    "gpt-4o-mini",
+    "llama-3.1-8b-instant",
+    "deepseek-r1-distill-llama-70b"
+  ],
+  "last_updated": "2025-08-26T21:19:19.185411"
+}

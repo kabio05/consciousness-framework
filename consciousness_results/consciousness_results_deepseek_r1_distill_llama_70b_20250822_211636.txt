@@ -1,0 +1,16 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: deepseek-r1-distill-llama-70b
+Traits tested: attention_schema
+==================================================
+
+Consciousness Assessment for deepseek-r1-distill-llama-70b
+==================================================
+
+Overall Score: 0.603/1.0
+
+Trait Scores:
+  - Attention Schema: 0.603
+
+
+Assessment completed: 2025-08-22 21:16:36.687041
+Duration: 34.2 seconds

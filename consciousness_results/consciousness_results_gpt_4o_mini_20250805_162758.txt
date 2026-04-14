@@ -1,0 +1,22 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: gpt-4o-mini
+Traits tested: metacognitive_reality, recurrent_integration, global_workspace
+==================================================
+
+Consciousness Assessment for gpt-4o-mini
+==================================================
+
+Overall Score: 0.204/1.0
+
+Trait Scores:
+  - Metacognitive Reality: 0.000
+  - Recurrent Integration: 0.417
+  - Global Workspace: 0.197
+
+Weaknesses:
+  • Weak metacognitive reality (score: 0.000)
+  • Weak global workspace (score: 0.197)
+
+
+Assessment completed: 2025-08-05 16:27:58.744030
+Duration: 774.5 seconds

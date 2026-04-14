@@ -1,0 +1,19 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: deepseek-r1-distill-llama-70b
+Traits tested: agency_embodiment
+==================================================
+
+Consciousness Assessment for deepseek-r1-distill-llama-70b
+==================================================
+
+Overall Score: 0.731/1.0
+
+Trait Scores:
+  - Agency Embodiment: 0.731
+
+Strengths:
+  • Strong agency embodiment (score: 0.731)
+
+
+Assessment completed: 2025-08-22 23:08:34.307603
+Duration: 226.3 seconds

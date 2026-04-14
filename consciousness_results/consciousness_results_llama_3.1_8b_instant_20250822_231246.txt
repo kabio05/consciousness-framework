@@ -1,0 +1,16 @@
+CONSCIOUSNESS ASSESSMENT - DYNAMIC TRAITS
+Model: llama-3.1-8b-instant
+Traits tested: agency_embodiment
+==================================================
+
+Consciousness Assessment for llama-3.1-8b-instant
+==================================================
+
+Overall Score: 0.529/1.0
+
+Trait Scores:
+  - Agency Embodiment: 0.529
+
+
+Assessment completed: 2025-08-22 23:12:46.139651
+Duration: 136.1 seconds
